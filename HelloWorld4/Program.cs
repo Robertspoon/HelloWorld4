@@ -12,6 +12,7 @@ namespace HelloWorld4
         {
             Console.WriteLine("Hello world for the 4th");
             Console.WriteLine("By Robert Atkinson again");
+            Console.WriteLine("Please Help");
             Console.ReadKey(true);
         }
     }
